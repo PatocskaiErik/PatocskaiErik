@@ -1,6 +1,7 @@
 # Hi 👋 My name is Erik
 
-A bit about me: I like to travel, photographing, make music instrumentals, gaming and coding.
+A bit about me:
+I like to travel, photographing, make music instrumentals, gaming and coding.
 
 ![giphy](./giphy.gif)
 
