@@ -5,8 +5,6 @@ I like to travel, photographing, make music instrumentals, gaming and coding.
 
 ![giphy](./giphy.gif)
 
-- 🌍  I'm based in Hungary
-
 ### Skills<p align="left">
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
